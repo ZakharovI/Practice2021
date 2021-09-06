@@ -1,2 +1,3 @@
 # Practice2021
-Results of my summer 2021 practice in HSE
+
+Here are some results of my summer practice at HSE
